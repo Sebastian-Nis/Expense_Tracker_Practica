@@ -1,0 +1,5 @@
+cablu: 34.0
+electricitate: 200.0
+incalzire: 560.0
+gaz: 89.0
+internet: 47.0
